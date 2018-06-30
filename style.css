@@ -31,8 +31,8 @@ hr {
 }
 
 img {
-  max-width: 950px;
-  max-height: 900px;
+  width: 100%;
+  height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
