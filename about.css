@@ -1,0 +1,17 @@
+.navbar {
+  color: rgba(161, 140, 101, 0.6);
+  margin-bottom: 1.25%;
+}
+
+h1, h2, h3, li, p, a {
+    font-family: 'Spectral SC', 'Times New Roman', Times, serif;
+    color: #9370db;
+    font-size: 1.75rem;
+}
+
+#main {
+    font-weight: 700;
+    font-size: 3em;
+    line-height: 1.2;
+    margin-bottom: .417rem;
+}
