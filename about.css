@@ -20,3 +20,17 @@ h1 {
     margin-bottom: 2.5%;
 }
 
+.story {
+    font-family: 'Vollkorn';
+    font-size: 2rem;
+    color: #323339;
+    margin-bottom: 1.5%;
+}
+
+.title {
+    color: #709fb0;
+}
+
+li {
+    margin-bottom: 0.05em;
+}
